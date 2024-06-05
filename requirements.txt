@@ -7,3 +7,5 @@ torch==2.2.2
 tqdm==4.66.2
 pykan==0.0.5
 pandas
+
+optuna
