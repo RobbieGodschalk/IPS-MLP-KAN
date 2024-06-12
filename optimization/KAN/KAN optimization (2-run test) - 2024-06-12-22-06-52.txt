@@ -1,0 +1,694 @@
+Starting KAN full grid search
+[620, 256, 64, 64, 16, 2]
+Epoch 1/71 - Avg Training Loss: 121.44506474198967 - Avg Validation Loss: 21.671388149261475
+Epoch 2/71 - Avg Training Loss: 13.94661074671252 - Avg Validation Loss: 10.669816732406616
+Epoch 3/71 - Avg Training Loss: 9.09206559740264 - Avg Validation Loss: 7.472596526145935
+Epoch 4/71 - Avg Training Loss: 6.595552066276813 - Avg Validation Loss: 5.85628068447113
+Epoch 5/71 - Avg Training Loss: 4.863734968777361 - Avg Validation Loss: 4.053623199462891
+Epoch 6/71 - Avg Training Loss: 3.9046790599823 - Avg Validation Loss: 3.516870141029358
+Epoch 7/71 - Avg Training Loss: 3.4199191126330146 - Avg Validation Loss: 3.132863402366638
+Epoch 8/71 - Avg Training Loss: 3.068868456215694 - Avg Validation Loss: 2.8616037368774414
+Epoch 9/71 - Avg Training Loss: 2.947889574642839 - Avg Validation Loss: 2.715335726737976
+Epoch 10/71 - Avg Training Loss: 2.8698747815756964 - Avg Validation Loss: 2.9871150851249695
+Epoch 11/71 - Avg Training Loss: 2.695218431538549 - Avg Validation Loss: 2.6618224382400513
+Epoch 12/71 - Avg Training Loss: 2.607051578061334 - Avg Validation Loss: 2.6143598556518555
+Epoch 13/71 - Avg Training Loss: 2.6150093160826584 - Avg Validation Loss: 2.7794191241264343
+Epoch 14/71 - Avg Training Loss: 2.4938484306993156 - Avg Validation Loss: 2.439043641090393
+Epoch 15/71 - Avg Training Loss: 2.4275410093110183 - Avg Validation Loss: 2.777862548828125
+Epoch 16/71 - Avg Training Loss: 2.610466751559027 - Avg Validation Loss: 2.6423967480659485
+Epoch 17/71 - Avg Training Loss: 2.2750175615836836 - Avg Validation Loss: 2.291007339954376
+Epoch 18/71 - Avg Training Loss: 2.2219711501022865 - Avg Validation Loss: 2.2870399355888367
+Epoch 19/71 - Avg Training Loss: 2.206993415437896 - Avg Validation Loss: 2.5979307889938354
+Epoch 20/71 - Avg Training Loss: 2.049039236430464 - Avg Validation Loss: 2.0726510286331177
+Epoch 21/71 - Avg Training Loss: 1.955682972381855 - Avg Validation Loss: 1.997498333454132
+Epoch 22/71 - Avg Training Loss: 1.9808870389543731 - Avg Validation Loss: 2.0348817706108093
+Epoch 23/71 - Avg Training Loss: 1.8926988716783195 - Avg Validation Loss: 2.039683550596237
+Epoch 24/71 - Avg Training Loss: 1.8478192872014538 - Avg Validation Loss: 2.086175858974457
+Epoch 25/71 - Avg Training Loss: 1.9584060455190724 - Avg Validation Loss: 2.249674826860428
+Epoch 26/71 - Avg Training Loss: 1.7203220129013062 - Avg Validation Loss: 2.3101693987846375
+Epoch 27/71 - Avg Training Loss: 1.662785188905124 - Avg Validation Loss: 1.7984795570373535
+Epoch 28/71 - Avg Training Loss: 1.5114967247535442 - Avg Validation Loss: 1.6269308030605316
+Epoch 29/71 - Avg Training Loss: 1.5510980178569924 - Avg Validation Loss: 2.0870500802993774
+Epoch 30/71 - Avg Training Loss: 1.4701758582016518 - Avg Validation Loss: 1.5929695963859558
+Epoch 31/71 - Avg Training Loss: 1.3520140113501713 - Avg Validation Loss: 1.4656562209129333
+Epoch 32/71 - Avg Training Loss: 1.285013418773125 - Avg Validation Loss: 1.8552557528018951
+Epoch 33/71 - Avg Training Loss: 1.4557835850222358 - Avg Validation Loss: 1.6375143826007843
+Epoch 34/71 - Avg Training Loss: 1.2422039426606277 - Avg Validation Loss: 1.4194151163101196
+Epoch 35/71 - Avg Training Loss: 1.2116352443037361 - Avg Validation Loss: 1.6151908934116364
+Epoch 36/71 - Avg Training Loss: 1.1450217900605038 - Avg Validation Loss: 1.4166173040866852
+Epoch 37/71 - Avg Training Loss: 1.1344161300823605 - Avg Validation Loss: 1.4382334053516388
+Epoch 38/71 - Avg Training Loss: 1.1347468351495678 - Avg Validation Loss: 1.3741308152675629
+Epoch 39/71 - Avg Training Loss: 1.0840765258361553 - Avg Validation Loss: 1.5076786875724792
+Epoch 40/71 - Avg Training Loss: 1.134406879030425 - Avg Validation Loss: 1.464572936296463
+Epoch 41/71 - Avg Training Loss: 1.0003660341788982 - Avg Validation Loss: 1.3092505931854248
+Epoch 42/71 - Avg Training Loss: 0.9515109103301476 - Avg Validation Loss: 1.1930397301912308
+Epoch 43/71 - Avg Training Loss: 0.9541099934742369 - Avg Validation Loss: 1.3863454461097717
+Epoch 44/71 - Avg Training Loss: 0.9375191084269819 - Avg Validation Loss: 1.2160593569278717
+Epoch 45/71 - Avg Training Loss: 0.9031392418105026 - Avg Validation Loss: 1.2467696964740753
+Epoch 46/71 - Avg Training Loss: 0.8768966547374067 - Avg Validation Loss: 1.3255605250597
+Epoch 47/71 - Avg Training Loss: 0.837510674164213 - Avg Validation Loss: 1.2384794056415558
+Epoch 48/71 - Avg Training Loss: 0.8492404654108244 - Avg Validation Loss: 1.1233530640602112
+Epoch 49/71 - Avg Training Loss: 0.7911479411454037 - Avg Validation Loss: 1.3330012410879135
+Epoch 50/71 - Avg Training Loss: 0.7511176898561674 - Avg Validation Loss: 1.340467855334282
+Epoch 51/71 - Avg Training Loss: 0.7474714209293497 - Avg Validation Loss: 1.2200482189655304
+Epoch 52/71 - Avg Training Loss: 0.7825056314468384 - Avg Validation Loss: 1.2395250797271729
+Epoch 53/71 - Avg Training Loss: 0.7753449555101066 - Avg Validation Loss: 1.3625278174877167
+Epoch 54/71 - Avg Training Loss: 0.7401756192075795 - Avg Validation Loss: 1.2573253214359283
+Epoch 55/71 - Avg Training Loss: 0.7330141550508039 - Avg Validation Loss: 1.1637314856052399
+Epoch 56/71 - Avg Training Loss: 0.6903257411101769 - Avg Validation Loss: 1.3064019978046417
+Epoch 57/71 - Avg Training Loss: 0.6941324451874042 - Avg Validation Loss: 1.3854001462459564
+Epoch 58/71 - Avg Training Loss: 0.6031264796339232 - Avg Validation Loss: 1.444068044424057
+Early stopping after 58 epochs without improvement. Use model from epoch 48
+Finished Training
+[620, 256, 620, 128, 64, 2]
+Epoch 1/81 - Avg Training Loss: 21.313908303485196 - Avg Validation Loss: 5.922635078430176
+Epoch 2/81 - Avg Training Loss: 4.259719715398901 - Avg Validation Loss: 3.75504869222641
+Epoch 3/81 - Avg Training Loss: 3.291708420304691 - Avg Validation Loss: 3.597711205482483
+Epoch 4/81 - Avg Training Loss: 2.9327380271518932 - Avg Validation Loss: 3.1742163002490997
+Epoch 5/81 - Avg Training Loss: 3.077050878721125 - Avg Validation Loss: 2.756403833627701
+Epoch 6/81 - Avg Training Loss: 2.711234294316348 - Avg Validation Loss: 2.7501523792743683
+Epoch 7/81 - Avg Training Loss: 2.686939207946553 - Avg Validation Loss: 2.6204448640346527
+Epoch 8/81 - Avg Training Loss: 2.4888746159918167 - Avg Validation Loss: 2.876275271177292
+Epoch 9/81 - Avg Training Loss: 2.4296788766103634 - Avg Validation Loss: 2.9302523732185364
+Epoch 10/81 - Avg Training Loss: 2.5777836599770714 - Avg Validation Loss: 2.4736988693475723
+Epoch 11/81 - Avg Training Loss: 2.262182083200006 - Avg Validation Loss: 2.557760789990425
+Epoch 12/81 - Avg Training Loss: 2.2658121550784394 - Avg Validation Loss: 2.2889649718999863
+Epoch 13/81 - Avg Training Loss: 2.112993250874912 - Avg Validation Loss: 2.0927083045244217
+Epoch 14/81 - Avg Training Loss: 1.8417191522962906 - Avg Validation Loss: 2.1794726103544235
+Epoch 15/81 - Avg Training Loss: 1.7436924348859226 - Avg Validation Loss: 1.783450961112976
+Epoch 16/81 - Avg Training Loss: 1.6200504478286295 - Avg Validation Loss: 1.7484737187623978
+Epoch 17/81 - Avg Training Loss: 1.6444679989534265 - Avg Validation Loss: 1.6973650753498077
+Epoch 18/81 - Avg Training Loss: 1.6160282457576078 - Avg Validation Loss: 1.6126083582639694
+Epoch 19/81 - Avg Training Loss: 1.240007693276686 - Avg Validation Loss: 2.2039833664894104
+Epoch 20/81 - Avg Training Loss: 1.2336435055031496 - Avg Validation Loss: 1.4919259995222092
+Epoch 21/81 - Avg Training Loss: 1.2851533258662504 - Avg Validation Loss: 1.354006603360176
+Epoch 22/81 - Avg Training Loss: 1.1433329599745132 - Avg Validation Loss: 1.3907679468393326
+Epoch 23/81 - Avg Training Loss: 1.019001445349525 - Avg Validation Loss: 1.5417388901114464
+Epoch 24/81 - Avg Training Loss: 0.9926935776191599 - Avg Validation Loss: 1.3755459785461426
+Epoch 25/81 - Avg Training Loss: 1.087027815334937 - Avg Validation Loss: 1.3783659785985947
+Epoch 26/81 - Avg Training Loss: 0.92877676644746 - Avg Validation Loss: 1.2603834420442581
+Epoch 27/81 - Avg Training Loss: 0.8178809771642965 - Avg Validation Loss: 1.2585688531398773
+Epoch 28/81 - Avg Training Loss: 0.909528968965306 - Avg Validation Loss: 1.3145791366696358
+Epoch 29/81 - Avg Training Loss: 0.8243242971160832 - Avg Validation Loss: 0.911570742726326
+Epoch 30/81 - Avg Training Loss: 0.8893443148802308 - Avg Validation Loss: 1.4638664200901985
+Epoch 31/81 - Avg Training Loss: 1.024693695937886 - Avg Validation Loss: 1.2718240320682526
+Epoch 32/81 - Avg Training Loss: 0.8186935918296084 - Avg Validation Loss: 1.2598284035921097
+Epoch 33/81 - Avg Training Loss: 0.707892135662191 - Avg Validation Loss: 1.2396815866231918
+Epoch 34/81 - Avg Training Loss: 0.6620505075244343 - Avg Validation Loss: 1.185600258409977
+Epoch 35/81 - Avg Training Loss: 0.862895646077745 - Avg Validation Loss: 1.583620049059391
+Epoch 36/81 - Avg Training Loss: 0.8167352728983935 - Avg Validation Loss: 1.176192358136177
+Epoch 37/81 - Avg Training Loss: 0.6290010958909988 - Avg Validation Loss: 0.886724129319191
+Epoch 38/81 - Avg Training Loss: 0.6286744251847267 - Avg Validation Loss: 0.9665320217609406
+Epoch 39/81 - Avg Training Loss: 0.5667284777497544 - Avg Validation Loss: 1.1920020654797554
+Epoch 40/81 - Avg Training Loss: 0.517207399229793 - Avg Validation Loss: 1.1068584993481636
+Epoch 41/81 - Avg Training Loss: 0.6404537700993174 - Avg Validation Loss: 1.1660886108875275
+Epoch 42/81 - Avg Training Loss: 0.631392649429686 - Avg Validation Loss: 1.0753798186779022
+Epoch 43/81 - Avg Training Loss: 0.642711366800701 - Avg Validation Loss: 0.9708994552493095
+Epoch 44/81 - Avg Training Loss: 0.5983136333525181 - Avg Validation Loss: 1.254721276462078
+Epoch 45/81 - Avg Training Loss: 0.6556769467013723 - Avg Validation Loss: 1.251647226512432
+Epoch 46/81 - Avg Training Loss: 0.5693868836935829 - Avg Validation Loss: 1.333880715072155
+Epoch 47/81 - Avg Training Loss: 0.5368056509862927 - Avg Validation Loss: 1.2447100654244423
+Early stopping after 47 epochs without improvement. Use model from epoch 37
+Finished Training
+====================================
+Number of finished trials: 2
+Best trial:
+     Trial Number:  1
+     Duration:  12.480456
+     Value:  0.886724129319191
+     Params: 
+         hidden_layer_count: 4
+         hidden_layer_size_0: 256
+         hidden_layer_size_1: 620
+         hidden_layer_size_2: 128
+         hidden_layer_size_3: 64
+         lr: 0.001774863386753514
+         batch_size: 96
+         epochs: 81
+Epoch 1/81 - Avg Training Loss: 29.423137131859274 - Avg Validation Loss: 5.1841906905174255
+Epoch 2/81 - Avg Training Loss: 4.106455613585079 - Avg Validation Loss: 3.961618095636368
+Epoch 3/81 - Avg Training Loss: 3.2145297912990345 - Avg Validation Loss: 2.9879493713378906
+Epoch 4/81 - Avg Training Loss: 3.1616505910368526 - Avg Validation Loss: 2.88358673453331
+Epoch 5/81 - Avg Training Loss: 2.8281613062409794 - Avg Validation Loss: 3.413223147392273
+Epoch 6/81 - Avg Training Loss: 2.8955081000047573 - Avg Validation Loss: 2.6032253354787827
+Epoch 7/81 - Avg Training Loss: 2.507502629476435 - Avg Validation Loss: 2.739332914352417
+Epoch 8/81 - Avg Training Loss: 2.48522249565405 - Avg Validation Loss: 2.6009040772914886
+Epoch 9/81 - Avg Training Loss: 2.7036132269045887 - Avg Validation Loss: 3.006481409072876
+Epoch 10/81 - Avg Training Loss: 2.170763126190971 - Avg Validation Loss: 2.155852347612381
+Epoch 11/81 - Avg Training Loss: 1.9877017105326933 - Avg Validation Loss: 2.038890779018402
+Epoch 12/81 - Avg Training Loss: 1.799675028113758 - Avg Validation Loss: 2.106543928384781
+Epoch 13/81 - Avg Training Loss: 1.6957867531215443 - Avg Validation Loss: 1.8302019834518433
+Epoch 14/81 - Avg Training Loss: 1.5858863942763384 - Avg Validation Loss: 2.011432498693466
+Epoch 15/81 - Avg Training Loss: 1.6629456877708435 - Avg Validation Loss: 2.245610684156418
+Epoch 16/81 - Avg Training Loss: 1.5202101346324473 - Avg Validation Loss: 1.8768077045679092
+Epoch 17/81 - Avg Training Loss: 1.3665584185544182 - Avg Validation Loss: 1.6773717552423477
+Epoch 18/81 - Avg Training Loss: 1.3515667266705458 - Avg Validation Loss: 1.46757822483778
+Epoch 19/81 - Avg Training Loss: 1.1307530911529766 - Avg Validation Loss: 1.5946228355169296
+Epoch 20/81 - Avg Training Loss: 1.0388462850276161 - Avg Validation Loss: 1.6373625546693802
+Epoch 21/81 - Avg Training Loss: 1.1210606527679108 - Avg Validation Loss: 1.3675847575068474
+Epoch 22/81 - Avg Training Loss: 1.0626264810562134 - Avg Validation Loss: 1.3132081776857376
+Epoch 23/81 - Avg Training Loss: 0.9229141675374087 - Avg Validation Loss: 1.1991781443357468
+Epoch 24/81 - Avg Training Loss: 1.0275989481631447 - Avg Validation Loss: 1.419117495417595
+Epoch 25/81 - Avg Training Loss: 0.9245054822634248 - Avg Validation Loss: 1.2716264873743057
+Epoch 26/81 - Avg Training Loss: 0.8433640765793183 - Avg Validation Loss: 1.053011305630207
+Epoch 27/81 - Avg Training Loss: 0.836743142674951 - Avg Validation Loss: 1.0810994505882263
+Epoch 28/81 - Avg Training Loss: 0.9061469150816693 - Avg Validation Loss: 1.1813379749655724
+Epoch 29/81 - Avg Training Loss: 0.7752540304380304 - Avg Validation Loss: 1.2306810542941093
+Epoch 30/81 - Avg Training Loss: 0.7832245261353605 - Avg Validation Loss: 1.128574714064598
+Epoch 31/81 - Avg Training Loss: 0.8490519006462658 - Avg Validation Loss: 1.3678957521915436
+Epoch 32/81 - Avg Training Loss: 0.8845876591170535 - Avg Validation Loss: 1.0780841186642647
+Epoch 33/81 - Avg Training Loss: 0.6935991609797758 - Avg Validation Loss: 1.0399708226323128
+Epoch 34/81 - Avg Training Loss: 0.7100326033199534 - Avg Validation Loss: 1.3023467808961868
+Epoch 35/81 - Avg Training Loss: 0.6944428616586853 - Avg Validation Loss: 1.1243630349636078
+Epoch 36/81 - Avg Training Loss: 0.7074332750018906 - Avg Validation Loss: 1.009050376713276
+Epoch 37/81 - Avg Training Loss: 0.6057354154832223 - Avg Validation Loss: 1.0170789510011673
+Epoch 38/81 - Avg Training Loss: 0.6727318062501795 - Avg Validation Loss: 1.1243354827165604
+Epoch 39/81 - Avg Training Loss: 0.5558940687162035 - Avg Validation Loss: 0.9138901494443417
+Epoch 40/81 - Avg Training Loss: 0.7375750736716915 - Avg Validation Loss: 1.429947279393673
+Epoch 41/81 - Avg Training Loss: 0.7586267875397906 - Avg Validation Loss: 1.16051384806633
+Epoch 42/81 - Avg Training Loss: 0.5530149511554662 - Avg Validation Loss: 0.9562678262591362
+Epoch 43/81 - Avg Training Loss: 0.47087109855869236 - Avg Validation Loss: 0.9125334471464157
+Epoch 44/81 - Avg Training Loss: 0.4651622364626211 - Avg Validation Loss: 1.402728371322155
+Epoch 45/81 - Avg Training Loss: 0.5279444230391699 - Avg Validation Loss: 0.9080798476934433
+Epoch 46/81 - Avg Training Loss: 0.49935010272790403 - Avg Validation Loss: 1.1975367814302444
+Epoch 47/81 - Avg Training Loss: 0.4568749598282225 - Avg Validation Loss: 1.114858403801918
+Epoch 48/81 - Avg Training Loss: 0.44683386210133047 - Avg Validation Loss: 0.9977333247661591
+Epoch 49/81 - Avg Training Loss: 0.5818229247541988 - Avg Validation Loss: 1.9744778722524643
+Epoch 50/81 - Avg Training Loss: 0.805086756892064 - Avg Validation Loss: 1.073956474661827
+Epoch 51/81 - Avg Training Loss: 0.5104625948211726 - Avg Validation Loss: 0.8944846726953983
+Epoch 52/81 - Avg Training Loss: 0.6158373230958686 - Avg Validation Loss: 1.240729846060276
+Epoch 53/81 - Avg Training Loss: 0.518250843619599 - Avg Validation Loss: 1.1350499987602234
+Epoch 54/81 - Avg Training Loss: 0.5896303660291082 - Avg Validation Loss: 1.1290047243237495
+Epoch 55/81 - Avg Training Loss: 0.5845745048102211 - Avg Validation Loss: 1.535265251994133
+Epoch 56/81 - Avg Training Loss: 0.5351281816906789 - Avg Validation Loss: 1.031531885266304
+Epoch 57/81 - Avg Training Loss: 0.419875190976788 - Avg Validation Loss: 1.1778692156076431
+Epoch 58/81 - Avg Training Loss: 0.45318449091385393 - Avg Validation Loss: 0.9170568734407425
+Epoch 59/81 - Avg Training Loss: 0.3995961652082555 - Avg Validation Loss: 0.9468421079218388
+Epoch 60/81 - Avg Training Loss: 0.3526286848765962 - Avg Validation Loss: 1.1063888370990753
+Epoch 61/81 - Avg Training Loss: 0.4618902798084652 - Avg Validation Loss: 1.3703643828630447
+Early stopping after 61 epochs without improvement. Use model from epoch 51
+Finished Training
+
+====================================
+V results for SEARCH_KAN_REDUCED_256 V
+====================================
+
+Starting KAN reduced search for 512-256 SAE
+Epoch 1/20 - Avg Training Loss: 0.3201340604938713
+Epoch 2/20 - Avg Training Loss: 0.17564976536760143
+Epoch 3/20 - Avg Training Loss: 0.1545149614559669
+Epoch 4/20 - Avg Training Loss: 0.14995390863395205
+Epoch 5/20 - Avg Training Loss: 0.1485060443919079
+Epoch 6/20 - Avg Training Loss: 0.14775240121811045
+Epoch 7/20 - Avg Training Loss: 0.1477795966407832
+Epoch 8/20 - Avg Training Loss: 0.14819533494757672
+Epoch 9/20 - Avg Training Loss: 0.14778056879546128
+Epoch 10/20 - Avg Training Loss: 0.14784094384487936
+Epoch 11/20 - Avg Training Loss: 0.1478302841823475
+Epoch 12/20 - Avg Training Loss: 0.14790651669689253
+Epoch 13/20 - Avg Training Loss: 0.14803885880346393
+Epoch 14/20 - Avg Training Loss: 0.1475876814448366
+Epoch 15/20 - Avg Training Loss: 0.14811480790376663
+Epoch 16/20 - Avg Training Loss: 0.14779552444815636
+Epoch 17/20 - Avg Training Loss: 0.14781787319510592
+Epoch 18/20 - Avg Training Loss: 0.14766166308054737
+Epoch 19/20 - Avg Training Loss: 0.14761501302321753
+Epoch 20/20 - Avg Training Loss: 0.14835734504695033
+Epoch 1/20 - Avg Training Loss: 0.8344618090811897
+Epoch 2/20 - Avg Training Loss: 0.38029619992948044
+Epoch 3/20 - Avg Training Loss: 0.26131660038349674
+Epoch 4/20 - Avg Training Loss: 0.19490543489947038
+Epoch 5/20 - Avg Training Loss: 0.15938328396455914
+Epoch 6/20 - Avg Training Loss: 0.1297474074013093
+Epoch 7/20 - Avg Training Loss: 0.11588041250612222
+Epoch 8/20 - Avg Training Loss: 0.1064757693778066
+Epoch 9/20 - Avg Training Loss: 0.10011245675531089
+Epoch 10/20 - Avg Training Loss: 0.09549952166921952
+Epoch 11/20 - Avg Training Loss: 0.09229983046066527
+Epoch 12/20 - Avg Training Loss: 0.09020399535987891
+Epoch 13/20 - Avg Training Loss: 0.08834315471205056
+Epoch 14/20 - Avg Training Loss: 0.08729397724656497
+Epoch 15/20 - Avg Training Loss: 0.08604065190051116
+Epoch 16/20 - Avg Training Loss: 0.08575182064783339
+Epoch 17/20 - Avg Training Loss: 0.08465484566256112
+Epoch 18/20 - Avg Training Loss: 0.07946155936110254
+Epoch 19/20 - Avg Training Loss: 0.0722530915894929
+Epoch 20/20 - Avg Training Loss: 0.0712695171435674
+[256, 64, 256, 128, 2]
+Epoch 1/70 - Avg Training Loss: 34.46172614719557 - Avg Validation Loss: 13.147573788960775
+Epoch 2/70 - Avg Training Loss: 7.808304040328316 - Avg Validation Loss: 4.966213544209798
+Epoch 3/70 - Avg Training Loss: 4.075481114180191 - Avg Validation Loss: 3.544178009033203
+Epoch 4/70 - Avg Training Loss: 3.673667182093081 - Avg Validation Loss: 5.404743671417236
+Epoch 5/70 - Avg Training Loss: 3.5577550349028213 - Avg Validation Loss: 3.0393994649251304
+Epoch 6/70 - Avg Training Loss: 3.000608796658723 - Avg Validation Loss: 2.8639517625172934
+Epoch 7/70 - Avg Training Loss: 2.9015865844228994 - Avg Validation Loss: 3.117424647013346
+Epoch 8/70 - Avg Training Loss: 3.006526874459308 - Avg Validation Loss: 2.7464805444081626
+Epoch 9/70 - Avg Training Loss: 2.6785872086234717 - Avg Validation Loss: 2.7652103900909424
+Epoch 10/70 - Avg Training Loss: 2.6188988996588667 - Avg Validation Loss: 2.852121591567993
+Epoch 11/70 - Avg Training Loss: 2.775353649388189 - Avg Validation Loss: 2.7499706745147705
+Epoch 12/70 - Avg Training Loss: 2.695713167605193 - Avg Validation Loss: 2.5112900733947754
+Epoch 13/70 - Avg Training Loss: 2.2679680482200952 - Avg Validation Loss: 2.5561354955037436
+Epoch 14/70 - Avg Training Loss: 2.2830430528391963 - Avg Validation Loss: 2.6821537017822266
+Epoch 15/70 - Avg Training Loss: 2.3172596226567808 - Avg Validation Loss: 2.540876865386963
+Epoch 16/70 - Avg Training Loss: 2.1963874723600303 - Avg Validation Loss: 2.9089417457580566
+Epoch 17/70 - Avg Training Loss: 2.114434916040172 - Avg Validation Loss: 2.418186823527018
+Epoch 18/70 - Avg Training Loss: 1.9629650375117427 - Avg Validation Loss: 2.5501758257548013
+Epoch 19/70 - Avg Training Loss: 2.114194901093193 - Avg Validation Loss: 2.8016807238260903
+Epoch 20/70 - Avg Training Loss: 2.071994532709536 - Avg Validation Loss: 2.875773827234904
+Epoch 21/70 - Avg Training Loss: 1.9530246257781982 - Avg Validation Loss: 2.5033246676127114
+Epoch 22/70 - Avg Training Loss: 1.8250026651050733 - Avg Validation Loss: 2.32050096988678
+Epoch 23/70 - Avg Training Loss: 1.7591740981392239 - Avg Validation Loss: 2.657938241958618
+Epoch 24/70 - Avg Training Loss: 1.6688461977502573 - Avg Validation Loss: 2.434133450190226
+Epoch 25/70 - Avg Training Loss: 1.638852808786475 - Avg Validation Loss: 2.484023650487264
+Epoch 26/70 - Avg Training Loss: 1.6451073936794116 - Avg Validation Loss: 2.291333039601644
+Epoch 27/70 - Avg Training Loss: 1.492044702820156 - Avg Validation Loss: 2.27173912525177
+Epoch 28/70 - Avg Training Loss: 1.5689385507417761 - Avg Validation Loss: 2.2991065979003906
+Epoch 29/70 - Avg Training Loss: 1.3710534572601318 - Avg Validation Loss: 2.1750741799672446
+Epoch 30/70 - Avg Training Loss: 1.3210284424864727 - Avg Validation Loss: 2.4316823482513428
+Epoch 31/70 - Avg Training Loss: 1.3186721724012624 - Avg Validation Loss: 2.095051328341166
+Epoch 32/70 - Avg Training Loss: 1.2701429750608362 - Avg Validation Loss: 2.6240047613779702
+Epoch 33/70 - Avg Training Loss: 1.4890888048254924 - Avg Validation Loss: 2.1719632943471274
+Epoch 34/70 - Avg Training Loss: 1.221031481805055 - Avg Validation Loss: 1.9691717624664307
+Epoch 35/70 - Avg Training Loss: 1.2540091431659202 - Avg Validation Loss: 2.9651142756144204
+Epoch 36/70 - Avg Training Loss: 1.4665633828743645 - Avg Validation Loss: 2.1656890710194907
+Epoch 37/70 - Avg Training Loss: 1.1759987991789114 - Avg Validation Loss: 2.306725184122721
+Epoch 38/70 - Avg Training Loss: 1.0386085069697837 - Avg Validation Loss: 2.219888687133789
+Epoch 39/70 - Avg Training Loss: 1.066261527330979 - Avg Validation Loss: 2.1903487841288247
+Epoch 40/70 - Avg Training Loss: 1.0160740743512693 - Avg Validation Loss: 1.9331529537836711
+Epoch 41/70 - Avg Training Loss: 0.950705841831539 - Avg Validation Loss: 2.1356650988260903
+Epoch 42/70 - Avg Training Loss: 0.8169659013333528 - Avg Validation Loss: 2.047717531522115
+Epoch 43/70 - Avg Training Loss: 0.774550868117291 - Avg Validation Loss: 2.075643022855123
+Epoch 44/70 - Avg Training Loss: 0.9048437398412953 - Avg Validation Loss: 2.12958033879598
+Epoch 45/70 - Avg Training Loss: 1.1099338609239329 - Avg Validation Loss: 2.1328896284103394
+Epoch 46/70 - Avg Training Loss: 0.7563946195270704 - Avg Validation Loss: 2.0039753516515098
+Epoch 47/70 - Avg Training Loss: 0.8161530339199564 - Avg Validation Loss: 2.7571566899617515
+Epoch 48/70 - Avg Training Loss: 1.0116384625434875 - Avg Validation Loss: 1.8576198816299438
+Epoch 49/70 - Avg Training Loss: 0.8819754201432933 - Avg Validation Loss: 1.8226862748463948
+Epoch 50/70 - Avg Training Loss: 0.6289976511312567 - Avg Validation Loss: 2.3363240559895835
+Epoch 51/70 - Avg Training Loss: 0.5826910112215125 - Avg Validation Loss: 1.8715251684188843
+Epoch 52/70 - Avg Training Loss: 0.4987317531005196 - Avg Validation Loss: 1.8864198923110962
+Epoch 53/70 - Avg Training Loss: 0.46272437468818994 - Avg Validation Loss: 1.6600315570831299
+Epoch 54/70 - Avg Training Loss: 0.5015392225721608 - Avg Validation Loss: 1.8253027995427449
+Epoch 55/70 - Avg Training Loss: 0.530611682197322 - Avg Validation Loss: 1.9791784286499023
+Epoch 56/70 - Avg Training Loss: 0.5600372902725054 - Avg Validation Loss: 1.9599555730819702
+Epoch 57/70 - Avg Training Loss: 0.6582085010798081 - Avg Validation Loss: 1.8801218271255493
+Epoch 58/70 - Avg Training Loss: 0.45311643377594324 - Avg Validation Loss: 1.9481480916341145
+Epoch 59/70 - Avg Training Loss: 0.3960279848264611 - Avg Validation Loss: 2.0001945892969766
+Epoch 60/70 - Avg Training Loss: 0.41645971199740534 - Avg Validation Loss: 1.9168522357940674
+Epoch 61/70 - Avg Training Loss: 0.3726628383864527 - Avg Validation Loss: 1.7285398244857788
+Epoch 62/70 - Avg Training Loss: 0.39813294747601385 - Avg Validation Loss: 1.8421062231063843
+Epoch 63/70 - Avg Training Loss: 0.30269297568694403 - Avg Validation Loss: 1.7907463312149048
+Early stopping after 63 epochs without improvement. Use model from epoch 53
+Finished Training
+[256, 64, 16, 2]
+Epoch 1/78 - Avg Training Loss: 75.23694888750713 - Avg Validation Loss: 13.166338602701822
+Epoch 2/78 - Avg Training Loss: 12.860848585764566 - Avg Validation Loss: 9.90064271291097
+Epoch 3/78 - Avg Training Loss: 8.0425426363945 - Avg Validation Loss: 5.9874312082926435
+Epoch 4/78 - Avg Training Loss: 5.658588945865631 - Avg Validation Loss: 4.974303563435872
+Epoch 5/78 - Avg Training Loss: 4.61621634165446 - Avg Validation Loss: 4.048483689626058
+Epoch 6/78 - Avg Training Loss: 3.903097798426946 - Avg Validation Loss: 3.5494534174601235
+Epoch 7/78 - Avg Training Loss: 3.471135904391607 - Avg Validation Loss: 3.272965669631958
+Epoch 8/78 - Avg Training Loss: 3.201142837603887 - Avg Validation Loss: 3.062103350957235
+Epoch 9/78 - Avg Training Loss: 3.031880110502243 - Avg Validation Loss: 2.831432501475016
+Epoch 10/78 - Avg Training Loss: 2.804893374443054 - Avg Validation Loss: 2.8266709645589194
+Epoch 11/78 - Avg Training Loss: 2.692919214566549 - Avg Validation Loss: 2.7053606510162354
+Epoch 12/78 - Avg Training Loss: 2.6277309457461038 - Avg Validation Loss: 2.8526875972747803
+Epoch 13/78 - Avg Training Loss: 2.5793588062127433 - Avg Validation Loss: 2.624384959538778
+Epoch 14/78 - Avg Training Loss: 2.482464239001274 - Avg Validation Loss: 2.603907903035482
+Epoch 15/78 - Avg Training Loss: 2.369502156972885 - Avg Validation Loss: 2.6598337491353354
+Epoch 16/78 - Avg Training Loss: 2.4200180967648826 - Avg Validation Loss: 2.5389298597971597
+Epoch 17/78 - Avg Training Loss: 2.298018048206965 - Avg Validation Loss: 2.4984829425811768
+Epoch 18/78 - Avg Training Loss: 2.205959772070249 - Avg Validation Loss: 2.4367660681406655
+Epoch 19/78 - Avg Training Loss: 2.1309681981801987 - Avg Validation Loss: 2.575997273127238
+Epoch 20/78 - Avg Training Loss: 2.1166317611932755 - Avg Validation Loss: 2.4778098265329995
+Epoch 21/78 - Avg Training Loss: 2.0534065117438636 - Avg Validation Loss: 2.408435821533203
+Epoch 22/78 - Avg Training Loss: 2.031852886080742 - Avg Validation Loss: 2.431536912918091
+Epoch 23/78 - Avg Training Loss: 1.9799363315105438 - Avg Validation Loss: 2.3395866552988687
+Epoch 24/78 - Avg Training Loss: 2.0474303513765335 - Avg Validation Loss: 2.360055843989054
+Epoch 25/78 - Avg Training Loss: 1.8609232008457184 - Avg Validation Loss: 2.2649100621541343
+Epoch 26/78 - Avg Training Loss: 1.8360175242026646 - Avg Validation Loss: 2.2850284973780313
+Epoch 27/78 - Avg Training Loss: 1.7805356780687969 - Avg Validation Loss: 2.3117454051971436
+Epoch 28/78 - Avg Training Loss: 1.7393895486990611 - Avg Validation Loss: 2.3338847160339355
+Epoch 29/78 - Avg Training Loss: 1.7172494331995647 - Avg Validation Loss: 2.2551512718200684
+Epoch 30/78 - Avg Training Loss: 1.6941701918840408 - Avg Validation Loss: 2.455363670984904
+Epoch 31/78 - Avg Training Loss: 1.6641241014003754 - Avg Validation Loss: 2.2784318923950195
+Epoch 32/78 - Avg Training Loss: 1.6233471184968948 - Avg Validation Loss: 2.1692561308542886
+Epoch 33/78 - Avg Training Loss: 1.64885446925958 - Avg Validation Loss: 2.2480602264404297
+Epoch 34/78 - Avg Training Loss: 1.6442950963974 - Avg Validation Loss: 2.183265447616577
+Epoch 35/78 - Avg Training Loss: 1.6350141912698746 - Avg Validation Loss: 2.199659824371338
+Epoch 36/78 - Avg Training Loss: 1.5589247941970825 - Avg Validation Loss: 2.282334804534912
+Epoch 37/78 - Avg Training Loss: 1.5120743463436763 - Avg Validation Loss: 2.19218909740448
+Epoch 38/78 - Avg Training Loss: 1.4558320691188176 - Avg Validation Loss: 2.2936534881591797
+Epoch 39/78 - Avg Training Loss: 1.4087208310763042 - Avg Validation Loss: 2.1102901299794516
+Epoch 40/78 - Avg Training Loss: 1.3449426690737407 - Avg Validation Loss: 2.136187116305033
+Epoch 41/78 - Avg Training Loss: 1.3807594577471416 - Avg Validation Loss: 2.3519235452016196
+Epoch 42/78 - Avg Training Loss: 1.6198091854651768 - Avg Validation Loss: 2.4877148469289145
+Epoch 43/78 - Avg Training Loss: 1.4904027233521144 - Avg Validation Loss: 2.134167194366455
+Epoch 44/78 - Avg Training Loss: 1.322902758916219 - Avg Validation Loss: 2.079198201497396
+Epoch 45/78 - Avg Training Loss: 1.2591169675191243 - Avg Validation Loss: 2.1557295322418213
+Epoch 46/78 - Avg Training Loss: 1.2372547288735707 - Avg Validation Loss: 2.306199232737223
+Epoch 47/78 - Avg Training Loss: 1.2312841738263767 - Avg Validation Loss: 2.141266425450643
+Epoch 48/78 - Avg Training Loss: 1.200793941815694 - Avg Validation Loss: 2.117128292719523
+Epoch 49/78 - Avg Training Loss: 1.2520216976602871 - Avg Validation Loss: 2.1596383253733316
+Epoch 50/78 - Avg Training Loss: 1.1937653372685115 - Avg Validation Loss: 1.9812938769658406
+Epoch 51/78 - Avg Training Loss: 1.262054368853569 - Avg Validation Loss: 2.174503803253174
+Epoch 52/78 - Avg Training Loss: 1.2432733575503032 - Avg Validation Loss: 2.2570482889811196
+Epoch 53/78 - Avg Training Loss: 1.1444807400306065 - Avg Validation Loss: 1.9493152300516765
+Epoch 54/78 - Avg Training Loss: 1.1640672832727432 - Avg Validation Loss: 2.121361335118612
+Epoch 55/78 - Avg Training Loss: 1.1332475890715916 - Avg Validation Loss: 2.0131091674168906
+Epoch 56/78 - Avg Training Loss: 1.107126551369826 - Avg Validation Loss: 2.0549769004185996
+Epoch 57/78 - Avg Training Loss: 1.1184208939472835 - Avg Validation Loss: 2.176343242327372
+Epoch 58/78 - Avg Training Loss: 1.1543957889080048 - Avg Validation Loss: 1.9776525100072224
+Epoch 59/78 - Avg Training Loss: 1.241881437599659 - Avg Validation Loss: 2.207308212916056
+Epoch 60/78 - Avg Training Loss: 1.1406071459253628 - Avg Validation Loss: 2.017708738644918
+Epoch 61/78 - Avg Training Loss: 1.014257272084554 - Avg Validation Loss: 2.1819635232289634
+Epoch 62/78 - Avg Training Loss: 1.00172824660937 - Avg Validation Loss: 1.9331060647964478
+Epoch 63/78 - Avg Training Loss: 1.0488442753752072 - Avg Validation Loss: 2.164036989212036
+Epoch 64/78 - Avg Training Loss: 1.0506463597218196 - Avg Validation Loss: 1.9637444416681926
+Epoch 65/78 - Avg Training Loss: 1.0257884537180264 - Avg Validation Loss: 1.9804784456888835
+Epoch 66/78 - Avg Training Loss: 1.0127718100945156 - Avg Validation Loss: 1.9999617735544841
+Epoch 67/78 - Avg Training Loss: 0.9667060598731041 - Avg Validation Loss: 2.1943538983662925
+Epoch 68/78 - Avg Training Loss: 1.0547320594390233 - Avg Validation Loss: 2.154217481613159
+Epoch 69/78 - Avg Training Loss: 0.996534913778305 - Avg Validation Loss: 2.011983950932821
+Epoch 70/78 - Avg Training Loss: 0.9859932859738668 - Avg Validation Loss: 1.9720011949539185
+Epoch 71/78 - Avg Training Loss: 1.0759715512394905 - Avg Validation Loss: 1.940688133239746
+Epoch 72/78 - Avg Training Loss: 0.9229694356520971 - Avg Validation Loss: 1.9225968917210896
+Epoch 73/78 - Avg Training Loss: 0.8822626248002052 - Avg Validation Loss: 2.028306007385254
+Epoch 74/78 - Avg Training Loss: 0.8536227891842524 - Avg Validation Loss: 2.1205652157465615
+Epoch 75/78 - Avg Training Loss: 0.8631822789708773 - Avg Validation Loss: 2.072869300842285
+Epoch 76/78 - Avg Training Loss: 0.8586297978957494 - Avg Validation Loss: 2.1350489457448325
+Epoch 77/78 - Avg Training Loss: 0.8157174810767174 - Avg Validation Loss: 1.9803422292073567
+Epoch 78/78 - Avg Training Loss: 0.7739243159691492 - Avg Validation Loss: 2.086412866910299
+Finished Training
+====================================
+Number of finished trials: 2
+Best trial:
+     Trial Number:  0
+     Duration:  5.30708
+     Value:  1.6600315570831299
+     Params: 
+         hidden_layer_count: 3
+         hidden_layer_size_0: 64
+         hidden_layer_size_1: 256
+         hidden_layer_size_2: 128
+         lr: 0.004723190777446269
+         batch_size: 288
+         epochs: 70
+Epoch 1/70 - Avg Training Loss: 34.951014104096785 - Avg Validation Loss: 11.935207684834799
+Epoch 2/70 - Avg Training Loss: 7.970387707585874 - Avg Validation Loss: 5.776274998982747
+Epoch 3/70 - Avg Training Loss: 4.438018239062766 - Avg Validation Loss: 4.1047178109486895
+Epoch 4/70 - Avg Training Loss: 3.7741649254508642 - Avg Validation Loss: 3.550218184789022
+Epoch 5/70 - Avg Training Loss: 3.2443796240765117 - Avg Validation Loss: 2.8058576583862305
+Epoch 6/70 - Avg Training Loss: 3.084905945736429 - Avg Validation Loss: 3.124009688695272
+Epoch 7/70 - Avg Training Loss: 2.88604388029679 - Avg Validation Loss: 2.8332799275716147
+Epoch 8/70 - Avg Training Loss: 2.7790732383728027 - Avg Validation Loss: 2.635142962137858
+Epoch 9/70 - Avg Training Loss: 2.463792624680892 - Avg Validation Loss: 2.8330980936686196
+Epoch 10/70 - Avg Training Loss: 2.730505310970804 - Avg Validation Loss: 2.6305832862854004
+Epoch 11/70 - Avg Training Loss: 2.397305965423584 - Avg Validation Loss: 2.5883196194966636
+Epoch 12/70 - Avg Training Loss: 2.284234606701395 - Avg Validation Loss: 2.712545077006022
+Epoch 13/70 - Avg Training Loss: 2.2382751755092456 - Avg Validation Loss: 2.449958086013794
+Epoch 14/70 - Avg Training Loss: 2.158488506856172 - Avg Validation Loss: 2.4589010874430337
+Epoch 15/70 - Avg Training Loss: 2.4701975532200025 - Avg Validation Loss: 3.3845147291819253
+Epoch 16/70 - Avg Training Loss: 2.3404452489769976 - Avg Validation Loss: 2.622663656870524
+Epoch 17/70 - Avg Training Loss: 1.9273165516231372 - Avg Validation Loss: 2.378007094065348
+Epoch 18/70 - Avg Training Loss: 1.8006027936935425 - Avg Validation Loss: 2.339924414952596
+Epoch 19/70 - Avg Training Loss: 1.8672050289485767 - Avg Validation Loss: 2.9855756759643555
+Epoch 20/70 - Avg Training Loss: 1.8761220289313274 - Avg Validation Loss: 2.1879841883977256
+Epoch 21/70 - Avg Training Loss: 1.5989406782647837 - Avg Validation Loss: 2.249450922012329
+Epoch 22/70 - Avg Training Loss: 1.5704880693684453 - Avg Validation Loss: 2.289168119430542
+Epoch 23/70 - Avg Training Loss: 1.5526591280232305 - Avg Validation Loss: 2.271388212839762
+Epoch 24/70 - Avg Training Loss: 1.62123427702033 - Avg Validation Loss: 2.436505079269409
+Epoch 25/70 - Avg Training Loss: 1.4797725055528723 - Avg Validation Loss: 2.066552996635437
+Epoch 26/70 - Avg Training Loss: 1.3558505099752676 - Avg Validation Loss: 2.4039164384206138
+Epoch 27/70 - Avg Training Loss: 1.3521722814311152 - Avg Validation Loss: 2.1586530208587646
+Epoch 28/70 - Avg Training Loss: 1.239686395810998 - Avg Validation Loss: 2.514660040537516
+Epoch 29/70 - Avg Training Loss: 1.293404141198034 - Avg Validation Loss: 2.125922203063965
+Epoch 30/70 - Avg Training Loss: 1.1474972341371619 - Avg Validation Loss: 2.153994639714559
+Epoch 31/70 - Avg Training Loss: 1.323546308538188 - Avg Validation Loss: 2.2473148504892984
+Epoch 32/70 - Avg Training Loss: 1.1358166440673496 - Avg Validation Loss: 2.090637962023417
+Epoch 33/70 - Avg Training Loss: 1.0177459224410679 - Avg Validation Loss: 2.2540998458862305
+Epoch 34/70 - Avg Training Loss: 1.0249157651610996 - Avg Validation Loss: 2.0085927645365396
+Epoch 35/70 - Avg Training Loss: 0.929964938889379 - Avg Validation Loss: 1.8223241567611694
+Epoch 36/70 - Avg Training Loss: 1.0203569272290105 - Avg Validation Loss: 2.4386425813039145
+Epoch 37/70 - Avg Training Loss: 1.0252542677132979 - Avg Validation Loss: 1.9095640182495117
+Epoch 38/70 - Avg Training Loss: 0.8988445323446522 - Avg Validation Loss: 1.9836840629577637
+Epoch 39/70 - Avg Training Loss: 0.860570938690849 - Avg Validation Loss: 1.7638804117838542
+Epoch 40/70 - Avg Training Loss: 1.0307577122812686 - Avg Validation Loss: 2.2471309502919516
+Epoch 41/70 - Avg Training Loss: 0.9059776067733765 - Avg Validation Loss: 2.217768351236979
+Epoch 42/70 - Avg Training Loss: 0.8179517103278119 - Avg Validation Loss: 1.8190806706746419
+Epoch 43/70 - Avg Training Loss: 0.5778081106102985 - Avg Validation Loss: 1.8753517866134644
+Epoch 44/70 - Avg Training Loss: 0.5449489691983098 - Avg Validation Loss: 1.692015568415324
+Epoch 45/70 - Avg Training Loss: 0.537002021851747 - Avg Validation Loss: 1.72202734152476
+Epoch 46/70 - Avg Training Loss: 0.47487716052843176 - Avg Validation Loss: 1.6863443851470947
+Epoch 47/70 - Avg Training Loss: 0.4272633220838464 - Avg Validation Loss: 1.5907533168792725
+Epoch 48/70 - Avg Training Loss: 0.4377018796361011 - Avg Validation Loss: 1.978824774424235
+Epoch 49/70 - Avg Training Loss: 0.39519263739171234 - Avg Validation Loss: 1.700239658355713
+Epoch 50/70 - Avg Training Loss: 0.3551688641309738 - Avg Validation Loss: 1.5964832305908203
+Epoch 51/70 - Avg Training Loss: 0.3151731322640958 - Avg Validation Loss: 1.893751899401347
+Epoch 52/70 - Avg Training Loss: 0.2774400037267934 - Avg Validation Loss: 1.4882974823315938
+Epoch 53/70 - Avg Training Loss: 0.274933657568434 - Avg Validation Loss: 1.8081304629643757
+Epoch 54/70 - Avg Training Loss: 0.2840476269307344 - Avg Validation Loss: 1.7455474535624187
+Epoch 55/70 - Avg Training Loss: 0.2656119459349176 - Avg Validation Loss: 1.6331913073857625
+Epoch 56/70 - Avg Training Loss: 0.2026220002899999 - Avg Validation Loss: 1.840243975321452
+Epoch 57/70 - Avg Training Loss: 0.18084847473579904 - Avg Validation Loss: 1.5531302293141682
+Epoch 58/70 - Avg Training Loss: 0.15704729537601056 - Avg Validation Loss: 1.573452075322469
+Epoch 59/70 - Avg Training Loss: 0.1803460490444432 - Avg Validation Loss: 1.6154845158259075
+Epoch 60/70 - Avg Training Loss: 0.15702885551297147 - Avg Validation Loss: 1.663395921389262
+Epoch 61/70 - Avg Training Loss: 0.1750707982674889 - Avg Validation Loss: 1.659352699915568
+Epoch 62/70 - Avg Training Loss: 0.14212438950072165 - Avg Validation Loss: 1.6004780530929565
+Early stopping after 62 epochs without improvement. Use model from epoch 52
+Finished Training
+
+====================================
+V results for SEARCH_KAN_REDUCED_128 V
+====================================
+
+Starting KAN reduced grid search for 512-256-128 SAE
+Epoch 1/20 - Avg Training Loss: 0.32686936986796994
+Epoch 2/20 - Avg Training Loss: 0.17151275744625166
+Epoch 3/20 - Avg Training Loss: 0.14840800271314733
+Epoch 4/20 - Avg Training Loss: 0.14328615235931733
+Epoch 5/20 - Avg Training Loss: 0.14157771392195834
+Epoch 6/20 - Avg Training Loss: 0.1410487373085583
+Epoch 7/20 - Avg Training Loss: 0.1407242846839568
+Epoch 8/20 - Avg Training Loss: 0.14064694093722924
+Epoch 9/20 - Avg Training Loss: 0.14074975873033205
+Epoch 10/20 - Avg Training Loss: 0.1406999121547914
+Epoch 11/20 - Avg Training Loss: 0.14077697789259985
+Epoch 12/20 - Avg Training Loss: 0.14082016262645816
+Epoch 13/20 - Avg Training Loss: 0.14055579856914632
+Epoch 14/20 - Avg Training Loss: 0.1405581842158355
+Epoch 15/20 - Avg Training Loss: 0.14055416623459144
+Epoch 16/20 - Avg Training Loss: 0.14079270424211726
+Epoch 17/20 - Avg Training Loss: 0.14046849120481342
+Epoch 18/20 - Avg Training Loss: 0.14071916387069458
+Epoch 19/20 - Avg Training Loss: 0.14061830280458226
+Epoch 20/20 - Avg Training Loss: 0.14088998610774675
+Epoch 1/20 - Avg Training Loss: 0.9072741240847344
+Epoch 2/20 - Avg Training Loss: 0.4255959458795248
+Epoch 3/20 - Avg Training Loss: 0.29340196342444885
+Epoch 4/20 - Avg Training Loss: 0.2272342262314815
+Epoch 5/20 - Avg Training Loss: 0.1845871232011739
+Epoch 6/20 - Avg Training Loss: 0.1555259670404827
+Epoch 7/20 - Avg Training Loss: 0.14197811367465
+Epoch 8/20 - Avg Training Loss: 0.1323480515503416
+Epoch 9/20 - Avg Training Loss: 0.12544166479332775
+Epoch 10/20 - Avg Training Loss: 0.12038862508009462
+Epoch 11/20 - Avg Training Loss: 0.11674258412391532
+Epoch 12/20 - Avg Training Loss: 0.11410587551254853
+Epoch 13/20 - Avg Training Loss: 0.11228594154703851
+Epoch 14/20 - Avg Training Loss: 0.11091585742200122
+Epoch 15/20 - Avg Training Loss: 0.10991599944000151
+Epoch 16/20 - Avg Training Loss: 0.10912956173221271
+Epoch 17/20 - Avg Training Loss: 0.10859751306912478
+Epoch 18/20 - Avg Training Loss: 0.10802037035133324
+Epoch 19/20 - Avg Training Loss: 0.10780265335651006
+Epoch 20/20 - Avg Training Loss: 0.10733605826310083
+Epoch 1/20 - Avg Training Loss: 1.515851280268501
+Epoch 2/20 - Avg Training Loss: 0.9408942203895718
+Epoch 3/20 - Avg Training Loss: 0.8134433381697711
+Epoch 4/20 - Avg Training Loss: 0.7161508401234945
+Epoch 5/20 - Avg Training Loss: 0.6674075348704469
+Epoch 6/20 - Avg Training Loss: 0.6239590130600274
+Epoch 7/20 - Avg Training Loss: 0.5698260872387418
+Epoch 8/20 - Avg Training Loss: 0.4325849185971653
+Epoch 9/20 - Avg Training Loss: 0.384191568867833
+Epoch 10/20 - Avg Training Loss: 0.3658350799597946
+Epoch 11/20 - Avg Training Loss: 0.3508056145088345
+Epoch 12/20 - Avg Training Loss: 0.3384432821881537
+Epoch 13/20 - Avg Training Loss: 0.32795342832219365
+Epoch 14/20 - Avg Training Loss: 0.3195993955813202
+Epoch 15/20 - Avg Training Loss: 0.3121810289574604
+Epoch 16/20 - Avg Training Loss: 0.3057691256205241
+Epoch 17/20 - Avg Training Loss: 0.28634319965745886
+Epoch 18/20 - Avg Training Loss: 0.28043978880433473
+Epoch 19/20 - Avg Training Loss: 0.2761404607810226
+Epoch 20/20 - Avg Training Loss: 0.2729798121487393
+[128, 256, 512, 32, 700, 2]
+Epoch 1/136 - Avg Training Loss: 79.26120281219482 - Avg Validation Loss: 99.85511016845703
+Epoch 2/136 - Avg Training Loss: 24.624231134142196 - Avg Validation Loss: 14.360980033874512
+Epoch 3/136 - Avg Training Loss: 16.097050666809082 - Avg Validation Loss: 15.099322319030762
+Epoch 4/136 - Avg Training Loss: 10.246707337243217 - Avg Validation Loss: 8.606989860534668
+Epoch 5/136 - Avg Training Loss: 8.21461227961949 - Avg Validation Loss: 5.587713003158569
+Epoch 6/136 - Avg Training Loss: 6.051386220114572 - Avg Validation Loss: 5.149837255477905
+Epoch 7/136 - Avg Training Loss: 4.492337533405849 - Avg Validation Loss: 4.057669639587402
+Epoch 8/136 - Avg Training Loss: 4.560537764004299 - Avg Validation Loss: 4.070326089859009
+Epoch 9/136 - Avg Training Loss: 3.9797867706843784 - Avg Validation Loss: 3.6427899599075317
+Epoch 10/136 - Avg Training Loss: 3.3334090369088307 - Avg Validation Loss: 3.1057064533233643
+Epoch 11/136 - Avg Training Loss: 3.309881363596235 - Avg Validation Loss: 2.9008545875549316
+Epoch 12/136 - Avg Training Loss: 3.33011485849108 - Avg Validation Loss: 3.9887466430664062
+Epoch 13/136 - Avg Training Loss: 3.3697191647120883 - Avg Validation Loss: 2.712998628616333
+Epoch 14/136 - Avg Training Loss: 3.208165236881801 - Avg Validation Loss: 3.605563998222351
+Epoch 15/136 - Avg Training Loss: 4.091499430792672 - Avg Validation Loss: 3.1596628427505493
+Epoch 16/136 - Avg Training Loss: 3.378035375050136 - Avg Validation Loss: 5.317498207092285
+Epoch 17/136 - Avg Training Loss: 3.6151293345860074 - Avg Validation Loss: 3.6690860986709595
+Epoch 18/136 - Avg Training Loss: 3.271846737180437 - Avg Validation Loss: 2.7045886516571045
+Epoch 19/136 - Avg Training Loss: 2.633835332734244 - Avg Validation Loss: 2.617589831352234
+Epoch 20/136 - Avg Training Loss: 2.58249340738569 - Avg Validation Loss: 2.858504891395569
+Epoch 21/136 - Avg Training Loss: 2.522961676120758 - Avg Validation Loss: 2.9888147115707397
+Epoch 22/136 - Avg Training Loss: 2.5839791127613614 - Avg Validation Loss: 2.567885160446167
+Epoch 23/136 - Avg Training Loss: 2.628451977457319 - Avg Validation Loss: 2.410800576210022
+Epoch 24/136 - Avg Training Loss: 2.572031021118164 - Avg Validation Loss: 2.5837727785110474
+Epoch 25/136 - Avg Training Loss: 2.4533585139683316 - Avg Validation Loss: 2.5498017072677612
+Epoch 26/136 - Avg Training Loss: 2.4241834368024553 - Avg Validation Loss: 2.4516637325286865
+Epoch 27/136 - Avg Training Loss: 2.404908376080649 - Avg Validation Loss: 2.5195573568344116
+Epoch 28/136 - Avg Training Loss: 2.467758400099618 - Avg Validation Loss: 3.276036262512207
+Epoch 29/136 - Avg Training Loss: 2.4541874868529185 - Avg Validation Loss: 2.474311590194702
+Epoch 30/136 - Avg Training Loss: 2.6165276084627425 - Avg Validation Loss: 2.2538691759109497
+Epoch 31/136 - Avg Training Loss: 2.140721721308572 - Avg Validation Loss: 2.6933616399765015
+Epoch 32/136 - Avg Training Loss: 2.5025885701179504 - Avg Validation Loss: 3.332884669303894
+Epoch 33/136 - Avg Training Loss: 2.269819915294647 - Avg Validation Loss: 2.4113816022872925
+Epoch 34/136 - Avg Training Loss: 2.1517538939203535 - Avg Validation Loss: 2.181970953941345
+Epoch 35/136 - Avg Training Loss: 2.280875555106572 - Avg Validation Loss: 2.7660337686538696
+Epoch 36/136 - Avg Training Loss: 2.7075646945408414 - Avg Validation Loss: 2.577778935432434
+Epoch 37/136 - Avg Training Loss: 2.4012174010276794 - Avg Validation Loss: 2.380561590194702
+Epoch 38/136 - Avg Training Loss: 2.252106632505144 - Avg Validation Loss: 3.043431878089905
+Epoch 39/136 - Avg Training Loss: 2.076020802770342 - Avg Validation Loss: 2.294766426086426
+Epoch 40/136 - Avg Training Loss: 2.121100902557373 - Avg Validation Loss: 1.9689863324165344
+Epoch 41/136 - Avg Training Loss: 1.8353120599474226 - Avg Validation Loss: 2.7394341230392456
+Epoch 42/136 - Avg Training Loss: 1.9664291058267866 - Avg Validation Loss: 1.9112414717674255
+Epoch 43/136 - Avg Training Loss: 1.72186940908432 - Avg Validation Loss: 2.135136067867279
+Epoch 44/136 - Avg Training Loss: 1.974337943962642 - Avg Validation Loss: 3.1722346544265747
+Epoch 45/136 - Avg Training Loss: 2.3466915232794627 - Avg Validation Loss: 2.2164852619171143
+Epoch 46/136 - Avg Training Loss: 1.8906339747565133 - Avg Validation Loss: 1.959381639957428
+Epoch 47/136 - Avg Training Loss: 1.9972471935408456 - Avg Validation Loss: 2.1416646242141724
+Epoch 48/136 - Avg Training Loss: 1.7819355896541051 - Avg Validation Loss: 2.9660176038742065
+Epoch 49/136 - Avg Training Loss: 2.1835138372012546 - Avg Validation Loss: 2.2397260665893555
+Epoch 50/136 - Avg Training Loss: 1.7776732019015722 - Avg Validation Loss: 2.31765353679657
+Epoch 51/136 - Avg Training Loss: 1.9873597281319755 - Avg Validation Loss: 2.189401149749756
+Epoch 52/136 - Avg Training Loss: 1.772363611630031 - Avg Validation Loss: 1.9638235569000244
+Early stopping after 52 epochs without improvement. Use model from epoch 42
+Finished Training
+[128, 512, 700, 128, 2]
+Epoch 1/60 - Avg Training Loss: 38.200482538011336 - Avg Validation Loss: 7.004123306274414
+Epoch 2/60 - Avg Training Loss: 5.207877344555325 - Avg Validation Loss: 7.706450462341309
+Epoch 3/60 - Avg Training Loss: 3.8074096997578937 - Avg Validation Loss: 3.352343034744263
+Epoch 4/60 - Avg Training Loss: 3.4741044256422255 - Avg Validation Loss: 3.2660078525543215
+Epoch 5/60 - Avg Training Loss: 2.9883507331212362 - Avg Validation Loss: 4.7202630043029785
+Epoch 6/60 - Avg Training Loss: 3.1475628323025173 - Avg Validation Loss: 3.095908212661743
+Epoch 7/60 - Avg Training Loss: 2.833378293779161 - Avg Validation Loss: 2.6470850467681886
+Epoch 8/60 - Avg Training Loss: 2.62273330423567 - Avg Validation Loss: 2.4290845155715943
+Epoch 9/60 - Avg Training Loss: 2.5142872280544704 - Avg Validation Loss: 2.5345309734344483
+Epoch 10/60 - Avg Training Loss: 2.3761521657307942 - Avg Validation Loss: 2.32404465675354
+Epoch 11/60 - Avg Training Loss: 2.1359956052568223 - Avg Validation Loss: 2.0542417764663696
+Epoch 12/60 - Avg Training Loss: 2.0120952738655937 - Avg Validation Loss: 2.020468997955322
+Epoch 13/60 - Avg Training Loss: 1.926375561290317 - Avg Validation Loss: 2.56855993270874
+Epoch 14/60 - Avg Training Loss: 2.0686600738101535 - Avg Validation Loss: 2.5329494953155516
+Epoch 15/60 - Avg Training Loss: 1.9371190547943116 - Avg Validation Loss: 2.6728715896606445
+Epoch 16/60 - Avg Training Loss: 1.7335555500454374 - Avg Validation Loss: 2.18958055973053
+Epoch 17/60 - Avg Training Loss: 1.4928150667084588 - Avg Validation Loss: 1.7181889533996582
+Epoch 18/60 - Avg Training Loss: 1.391663748688168 - Avg Validation Loss: 1.8014384984970093
+Epoch 19/60 - Avg Training Loss: 1.4089830769432916 - Avg Validation Loss: 1.7110321998596192
+Epoch 20/60 - Avg Training Loss: 1.0994566745228238 - Avg Validation Loss: 1.6442327499389648
+Epoch 21/60 - Avg Training Loss: 1.2827650745709738 - Avg Validation Loss: 1.570914888381958
+Epoch 22/60 - Avg Training Loss: 1.2374078936047024 - Avg Validation Loss: 1.7121063709259032
+Epoch 23/60 - Avg Training Loss: 0.9042191492186652 - Avg Validation Loss: 1.5621338367462159
+Epoch 24/60 - Avg Training Loss: 0.7724804335170322 - Avg Validation Loss: 1.4424817323684693
+Epoch 25/60 - Avg Training Loss: 0.8213358137342665 - Avg Validation Loss: 1.8214853525161743
+Epoch 26/60 - Avg Training Loss: 0.7944023913807339 - Avg Validation Loss: 1.8045403480529785
+Epoch 27/60 - Avg Training Loss: 0.7909683797094557 - Avg Validation Loss: 1.778068447113037
+Epoch 28/60 - Avg Training Loss: 0.8043260057767232 - Avg Validation Loss: 1.58637535572052
+Epoch 29/60 - Avg Training Loss: 0.6013255721992916 - Avg Validation Loss: 1.5478986740112304
+Epoch 30/60 - Avg Training Loss: 0.6030890736314986 - Avg Validation Loss: 1.585748267173767
+Epoch 31/60 - Avg Training Loss: 0.5120811813407474 - Avg Validation Loss: 1.464510178565979
+Epoch 32/60 - Avg Training Loss: 0.5153693960772621 - Avg Validation Loss: 1.4929980039596558
+Epoch 33/60 - Avg Training Loss: 0.44321352707015144 - Avg Validation Loss: 1.48138108253479
+Epoch 34/60 - Avg Training Loss: 0.44403022627035776 - Avg Validation Loss: 1.5250579833984375
+Early stopping after 34 epochs without improvement. Use model from epoch 24
+Finished Training
+====================================
+Number of finished trials: 2
+Best trial:
+     Trial Number:  1
+     Duration:  6.176932
+     Value:  1.4424817323684693
+     Params: 
+         hidden_layer_count: 3
+         hidden_layer_size_0: 512
+         hidden_layer_size_1: 700
+         hidden_layer_size_2: 128
+         lr: 0.004193362088373625
+         batch_size: 144
+         epochs: 60
+Epoch 1/60 - Avg Training Loss: 36.50566550360786 - Avg Validation Loss: 6.136329650878906
+Epoch 2/60 - Avg Training Loss: 5.041377554999458 - Avg Validation Loss: 4.004107332229614
+Epoch 3/60 - Avg Training Loss: 3.617103428310818 - Avg Validation Loss: 3.327577590942383
+Epoch 4/60 - Avg Training Loss: 3.7076938735114204 - Avg Validation Loss: 3.5281949996948243
+Epoch 5/60 - Avg Training Loss: 3.0405848185221354 - Avg Validation Loss: 3.3142850399017334
+Epoch 6/60 - Avg Training Loss: 3.122066715028551 - Avg Validation Loss: 3.871493625640869
+Epoch 7/60 - Avg Training Loss: 3.2383487224578857 - Avg Validation Loss: 2.851215934753418
+Epoch 8/60 - Avg Training Loss: 2.8117381731669107 - Avg Validation Loss: 3.043110656738281
+Epoch 9/60 - Avg Training Loss: 2.6380744642681546 - Avg Validation Loss: 2.508212852478027
+Epoch 10/60 - Avg Training Loss: 2.3032625728183325 - Avg Validation Loss: 2.6053176879882813
+Epoch 11/60 - Avg Training Loss: 2.2529924207263523 - Avg Validation Loss: 2.360690188407898
+Epoch 12/60 - Avg Training Loss: 2.1471263594097563 - Avg Validation Loss: 2.299495077133179
+Epoch 13/60 - Avg Training Loss: 1.9329074886110094 - Avg Validation Loss: 2.0408197402954102
+Epoch 14/60 - Avg Training Loss: 1.9179922686682807 - Avg Validation Loss: 2.150365614891052
+Epoch 15/60 - Avg Training Loss: 2.0749657842848035 - Avg Validation Loss: 2.0688455581665037
+Epoch 16/60 - Avg Training Loss: 1.7289314958784314 - Avg Validation Loss: 2.1212941646575927
+Epoch 17/60 - Avg Training Loss: 1.527204284403059 - Avg Validation Loss: 1.8849786520004272
+Epoch 18/60 - Avg Training Loss: 1.612331944041782 - Avg Validation Loss: 1.903746747970581
+Epoch 19/60 - Avg Training Loss: 1.3982769966125488 - Avg Validation Loss: 1.8235811471939087
+Epoch 20/60 - Avg Training Loss: 1.3271129263771906 - Avg Validation Loss: 2.1527798414230346
+Epoch 21/60 - Avg Training Loss: 1.3891992370287578 - Avg Validation Loss: 1.743581771850586
+Epoch 22/60 - Avg Training Loss: 1.1236223366525437 - Avg Validation Loss: 1.6673847675323485
+Epoch 23/60 - Avg Training Loss: 1.0219955298635695 - Avg Validation Loss: 1.962906551361084
+Epoch 24/60 - Avg Training Loss: 1.0070171064800686 - Avg Validation Loss: 1.7353537559509278
+Epoch 25/60 - Avg Training Loss: 0.9170510980818006 - Avg Validation Loss: 1.9711748600006103
+Epoch 26/60 - Avg Training Loss: 1.1144049790170458 - Avg Validation Loss: 1.5559481143951417
+Epoch 27/60 - Avg Training Loss: 0.7084569533665975 - Avg Validation Loss: 1.6546069622039794
+Epoch 28/60 - Avg Training Loss: 0.7372747692796919 - Avg Validation Loss: 1.7203569412231445
+Epoch 29/60 - Avg Training Loss: 0.6528598037030962 - Avg Validation Loss: 1.5729081869125365
+Epoch 30/60 - Avg Training Loss: 0.6187489363882277 - Avg Validation Loss: 1.3999655485153197
+Epoch 31/60 - Avg Training Loss: 0.49477624893188477 - Avg Validation Loss: 1.5436012506484986
+Epoch 32/60 - Avg Training Loss: 0.44662885003619723 - Avg Validation Loss: 1.5238773107528687
+Epoch 33/60 - Avg Training Loss: 0.45080923173162674 - Avg Validation Loss: 1.3843398809432983
+Epoch 34/60 - Avg Training Loss: 0.46910499466790095 - Avg Validation Loss: 1.821347451210022
+Epoch 35/60 - Avg Training Loss: 0.38169981671704184 - Avg Validation Loss: 1.5208540916442872
+Epoch 36/60 - Avg Training Loss: 0.3307880067163044 - Avg Validation Loss: 1.4054271578788757
+Epoch 37/60 - Avg Training Loss: 0.30193231205145515 - Avg Validation Loss: 1.6149017333984375
+Epoch 38/60 - Avg Training Loss: 0.390253770020273 - Avg Validation Loss: 1.5175706624984742
+Epoch 39/60 - Avg Training Loss: 0.44405632350179886 - Avg Validation Loss: 2.009972071647644
+Epoch 40/60 - Avg Training Loss: 0.5105809522999658 - Avg Validation Loss: 1.6755470871925353
+Epoch 41/60 - Avg Training Loss: 0.3208347486125098 - Avg Validation Loss: 1.492438006401062
+Epoch 42/60 - Avg Training Loss: 0.27374004357390935 - Avg Validation Loss: 1.4793749570846557
+Epoch 43/60 - Avg Training Loss: 0.23617318239476945 - Avg Validation Loss: 1.354366159439087
+Epoch 44/60 - Avg Training Loss: 0.20727967851691775 - Avg Validation Loss: 1.3034652590751648
+Epoch 45/60 - Avg Training Loss: 0.14787928528255886 - Avg Validation Loss: 1.2966639518737793
+Epoch 46/60 - Avg Training Loss: 0.09999671553572019 - Avg Validation Loss: 1.2752926707267762
+Epoch 47/60 - Avg Training Loss: 0.10769932890931765 - Avg Validation Loss: 1.2693471908569336
+Epoch 48/60 - Avg Training Loss: 0.09006587978866365 - Avg Validation Loss: 1.3680848002433776
+Epoch 49/60 - Avg Training Loss: 0.1180734298295445 - Avg Validation Loss: 1.4037812232971192
+Epoch 50/60 - Avg Training Loss: 0.10746142797999912 - Avg Validation Loss: 1.247731578350067
+Epoch 51/60 - Avg Training Loss: 0.09597684716184934 - Avg Validation Loss: 1.2941003561019897
+Epoch 52/60 - Avg Training Loss: 0.24250592448645167 - Avg Validation Loss: 1.6783668041229247
+Epoch 53/60 - Avg Training Loss: 0.47573039333025613 - Avg Validation Loss: 1.6004950761795045
+Epoch 54/60 - Avg Training Loss: 0.2397052448656824 - Avg Validation Loss: 2.025638461112976
+Epoch 55/60 - Avg Training Loss: 0.2669441805945502 - Avg Validation Loss: 1.3943841099739074
+Epoch 56/60 - Avg Training Loss: 0.14482071383131875 - Avg Validation Loss: 1.5035026788711547
+Epoch 57/60 - Avg Training Loss: 0.199665214949184 - Avg Validation Loss: 1.4875077843666076
+Epoch 58/60 - Avg Training Loss: 0.11685405886835522 - Avg Validation Loss: 1.509391188621521
+Epoch 59/60 - Avg Training Loss: 0.09426428493526247 - Avg Validation Loss: 1.2718260526657104
+Epoch 60/60 - Avg Training Loss: 0.07703195752369033 - Avg Validation Loss: 1.4005879878997802
+Early stopping after 60 epochs without improvement. Use model from epoch 50
+Finished Training
